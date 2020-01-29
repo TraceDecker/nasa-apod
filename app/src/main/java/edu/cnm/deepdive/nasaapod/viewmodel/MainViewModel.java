@@ -40,7 +40,7 @@ public class MainViewModel extends AndroidViewModel {
   }
   private class Retriever extends Thread {
 
-    private static final String DATE_FORMAT = "yyyy-MM-dd-";
+    private static final String DATE_FORMAT = "yyyy-MM-dd";
 
     @Override
     public void run() {
