@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-31T07:06:12.369Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="ERwEuAAoFTI5LV2pPxEt" version="12.6.2" type="github">
+<mxfile host="www.draw.io" modified="2020-01-31T15:34:48.945Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="ZF2S3qd9uyfmnVRsJRoC" version="12.6.2" type="github">
   <diagram id="pEdrLrNa93Opo544BcHM" name="Page-1">
-    <mxGraphModel dx="1858" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1906" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -316,6 +316,33 @@
         </mxCell>
         <mxCell id="yhGkoqOSeWeYSa07yg06-180" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/glypho-free/64/share-128.png;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="888.22" y="831.71" width="28" height="28" as="geometry"/>
+        </mxCell>
+        <mxCell id="yhGkoqOSeWeYSa07yg06-181" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;strokeColor=#888888;fillColor=#444444;" vertex="1" parent="1">
+          <mxGeometry x="880" y="810" width="185" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="yhGkoqOSeWeYSa07yg06-182" value="Share option email" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#ffffff;" vertex="1" parent="yhGkoqOSeWeYSa07yg06-181">
+          <mxGeometry width="185" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="yhGkoqOSeWeYSa07yg06-183" value="Social media" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#ffffff;" vertex="1" parent="yhGkoqOSeWeYSa07yg06-181">
+          <mxGeometry y="25" width="185" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="yhGkoqOSeWeYSa07yg06-184" value="download" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#ffffff;" vertex="1" parent="yhGkoqOSeWeYSa07yg06-181">
+          <mxGeometry y="50" width="185" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="yhGkoqOSeWeYSa07yg06-185" value="Share option 4" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#ffffff;" vertex="1" parent="yhGkoqOSeWeYSa07yg06-181">
+          <mxGeometry y="75" width="185" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="yhGkoqOSeWeYSa07yg06-187" value="Opens the menu to share" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=26.4;dy=43;boundedLbl=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="840" y="500.34" width="112" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="yhGkoqOSeWeYSa07yg06-189" value="" style="curved=1;endArrow=classic;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.036;entryY=0.437;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yhGkoqOSeWeYSa07yg06-164" target="yhGkoqOSeWeYSa07yg06-182">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="640" as="sourcePoint"/>
+            <mxPoint x="800" y="590" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="750" y="590"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
