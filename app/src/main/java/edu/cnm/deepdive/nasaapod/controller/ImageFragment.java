@@ -99,7 +99,7 @@ public class ImageFragment extends Fragment {
         handled = super.onOptionsItemSelected(item);
     }
     return handled;
-  }
+  };
 
   private void setupWebView(View root) {
     contentView = root.findViewById(R.id.content_view);
